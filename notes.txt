@@ -1,0 +1,42 @@
+openGL
+https://learnopengl.com
+
+Compute shaders
+https://medium.com/@daniel.coady/compute-shaders-in-opengl-4-3-d1c741998c03
+
+
+Atomic orbitals
+https://en.wikipedia.org/wiki/Atomic_orbital#Orbitals_table
+
+Schrödinger equation
+https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
+
+
+
+
+
+Hydrogen wave function
+https://www.youtube.com/watch?v=GIIkXQPe1zk
+
+https://employees.csbsju.edu/hjakubowski/classes/ch123/Quantum/EquationsOribtalsH.htm
+
+
+
+
+
+
+
+
+
+
+
+
+Recurrence relation
+https://en.wikipedia.org/wiki/Recurrence_relation
+
+Laguerre polynomials
+https://www.youtube.com/watch?v=IFH27Ukbpfo
+
+Legendre polynomials
+https://www.youtube.com/watch?v=17AaRCeejh8
+https://en.wikipedia.org/wiki/Associated_Legendre_polynomials#Recurrence_formula
