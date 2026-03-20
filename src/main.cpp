@@ -13,8 +13,6 @@
 
 #include <iostream>
 
-#define STB_TRUETYPE_IMPLEMENTATION
-#include "stb_truetype.h"
 
 GLFWwindow *programInit();
 void framebuffer_size_callback(GLFWwindow *window, int width, int height);

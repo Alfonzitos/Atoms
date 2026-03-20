@@ -112,3 +112,14 @@ These are all matrices that can be combined into a single matrix through matrix 
 
 Matrix multiplication is not commutative, i.e that matter in which they are multiplied together matters. Generally, to keep transformations local, they are applied in the order of Scale => rotate => translate. 
 Analogy: Turning around and then walking forward vs walking forward and then turning.
+
+
+1,0,0
+
+2,1,0
+
+3,2,0
+
+4,2,2
+
+5,2,1
