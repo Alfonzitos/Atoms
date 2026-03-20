@@ -1,1 +1,1 @@
-[![Watch Demo](thumbnail.png)](demo.gif)
+![Demo](demo.gif)
